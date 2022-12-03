@@ -9,7 +9,7 @@ set -v
 #### Use python services instead.
 ####
 
-WLANS=$1
+WLAN=$1
 #BAND="5G"
 BAND="2G"
 
